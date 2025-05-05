@@ -280,8 +280,8 @@ body {
   background: rgba(112, 213, 72, 0.3);
 }
 @font-face {
-  font-family: text;
-  src: url(./css/fonts/FuzzyBubbles-Regular.ttf);
+  font-family: "text";
+  src: url("./css/fonts/FuzzyBubbles-Regular.ttf");
 }
 @property --tw-border-style {
   syntax: "*";
